@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GuestGuide - Gestor de Huéspedes",
+  "description": "Una guía digital interactiva para huéspedes de alquileres cortos, con registro de check-in/out y recomendaciones locales sincronizadas con Google Sheets.",
+  "requestFramePermissions": []
+}
